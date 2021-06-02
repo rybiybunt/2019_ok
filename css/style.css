@@ -21,7 +21,7 @@ html,body {
 	height: 100%;
 	margin: 0px;
 	padding: 0px;
-	font-size: 12px;
+	font-size: 14px;
 	font-family: sans-serif;
 	line-height:1.25em;
 }
@@ -81,7 +81,7 @@ canvas#sigma_bg_1 {
 	height: 14px;
 	border-bottom: 1px solid #999;
 	padding: 0px 0 10px 0;
-	font-size:16px;
+	font-size:18px;
 	font-weight:bold;
 }
 
@@ -102,8 +102,8 @@ canvas#sigma_bg_1 {
 }
 
 #attributepane .close {
-	padding-left: 14px;
-	margin-top: 10px;
+	padding-left: 16px;
+	margin-top: 12px;
 }
 
 #attributepane .close .c {
@@ -136,7 +136,7 @@ float: left;
 }
 
 #attributepane .name {
-font-size: 14px;
+font-size: 16px;
 cursor: default;
 padding-bottom: 10px;
 padding-top: 18px;
@@ -169,7 +169,7 @@ cursor:pointer;
 #attributepane .p {
 padding-top: 10px;
 font-weight: bold;
-font-size:14px;
+font-size:16px;
 }
 
 .left-close {
@@ -182,7 +182,7 @@ line-height:36px;
 background-repeat: no-repeat;
 margin-bottom:25px;
 font-weight: bold;
-font-size:14px;
+font-size:16px;
 
 }
 
